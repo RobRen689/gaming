@@ -1,0 +1,167 @@
+﻿[
+  {
+    "ID": "1",
+    "QTYONHAND": 50,
+    "QTYONBACKORDER": 25,
+    "COSTPRICE": 379.99,
+    "MSRP": 299.99,
+    "ITEM": "Nintendo Switch - Neon Blue + Neon Red",
+    "GRAPHIC": "Switch",
+    "DESCRIPTION": "The regular model of switch",
+    "BRAND": "NINTENDO"
+  },
+  {
+    "ID": "2",
+    "QTYONHAND": 75,
+    "QTYONBACKORDER": 30,
+    "COSTPRICE": 259.99,
+    "MSRP": 199.99,
+    "ITEM": "Nintendo Switch Lite - Coral",
+    "GRAPHIC": "SwitchLite",
+    "DESCRIPTION": "The lite model of switch",
+    "BRAND": "NINTENDO"
+  },
+  {
+    "ID": "3",
+    "QTYONHAND": 40,
+    "QTYONBACKORDER": 20,
+    "COSTPRICE": 449.99,
+    "MSRP": 399.99,
+    "ITEM": "Nintendo Switch - OLED Model",
+    "GRAPHIC": "SwitchOLED",
+    "DESCRIPTION": "Switch with 7 inch OLED screen",
+    "BRAND": "NINTENDO"
+  },
+  {
+    "ID": "4",
+    "QTYONHAND": 76,
+    "QTYONBACKORDER": 56,
+    "COSTPRICE": 89.99,
+    "MSRP": 89.99,
+    "ITEM": "Pro Controller",
+    "GRAPHIC": "Controller",
+    "DESCRIPTION": "A controller compatible for nintendo switch",
+    "BRAND": "NINTENDO"
+  },
+  {
+    "ID": "5",
+    "QTYONHAND": 111,
+    "QTYONBACKORDER": 87,
+    "COSTPRICE": 24.99,
+    "MSRP": 24.99,
+    "ITEM": "Nintendo Switch Carrying Case & Screen Protector",
+    "GRAPHIC": "Case",
+    "DESCRIPTION": "Case and protection for your nintendo switch",
+    "BRAND": "NINTENDO"
+  },
+  {
+    "ID": "6",
+    "QTYONHAND": 36,
+    "QTYONBACKORDER": 30,
+    "COSTPRICE": 629.99,
+    "MSRP": 599.99,
+    "ITEM": "Playstation 5 Console",
+    "GRAPHIC": "P5",
+    "DESCRIPTION": "The newest model of playstation gaming console",
+    "BRAND": "SONY"
+  },
+  {
+    "ID": "7",
+    "QTYONHAND": 58,
+    "QTYONBACKORDER": 29,
+    "COSTPRICE": 589.99,
+    "MSRP": 499.99,
+    "ITEM": "Playstation 4 Pro",
+    "GRAPHIC": "P4Pro",
+    "DESCRIPTION": "The most advanced model of playstation 4",
+    "BRAND": "SONY"
+  },
+  {
+    "ID": "8",
+    "QTYONHAND": 24,
+    "QTYONBACKORDER": 11,
+    "COSTPRICE": 379.99,
+    "MSRP": 399.99,
+    "ITEM": "Playstation 4 Slim",
+    "GRAPHIC": "P4Slim",
+    "DESCRIPTION": "The upgraded model of playstation 4",
+    "BRAND": "SONY"
+  },
+  {
+    "ID": "9",
+    "QTYONHAND": 15,
+    "QTYONBACKORDER": 3,
+    "COSTPRICE": 399.99,
+    "MSRP": 499.99,
+    "ITEM": "Playstation 4",
+    "GRAPHIC": "P4",
+    "DESCRIPTION": "The base model of playstation 4",
+    "BRAND": "SONY"
+  },
+  {
+    "ID": "10",
+    "QTYONHAND": 78,
+    "QTYONBACKORDER": 67,
+    "COSTPRICE": 89.99,
+    "MSRP": 79.99,
+    "ITEM": "Playstation Dualsense Wireless Controller",
+    "GRAPHIC": "P5Controller",
+    "DESCRIPTION": "The newest controller for Playstation 5",
+    "BRAND": "SONY"
+  },
+  {
+    "ID": "11",
+    "QTYONHAND": 87,
+    "QTYONBACKORDER": 45,
+    "COSTPRICE": 599.99,
+    "MSRP": 599.99,
+    "ITEM": "XBox Series X",
+    "GRAPHIC": "XBoxSX",
+    "DESCRIPTION": "The newest XBox System",
+    "BRAND": "Microsoft"
+  },
+  {
+    "ID": "12",
+    "QTYONHAND": 99,
+    "QTYONBACKORDER": 45,
+    "COSTPRICE": 379.99,
+    "MSRP": 399.99,
+    "ITEM": "XBox Series S",
+    "GRAPHIC": "XBoxSS",
+    "DESCRIPTION": "The newest XBox System just like XBox Series X, but much smaller",
+    "BRAND": "Microsoft"
+  },
+  {
+    "ID": "13",
+    "QTYONHAND": 55,
+    "QTYONBACKORDER": 23,
+    "COSTPRICE": 469.99,
+    "MSRP": 499.99,
+    "ITEM": "XBox One X",
+    "GRAPHIC": "XBoxOneX",
+    "DESCRIPTION": "Successer of XBox 360",
+    "BRAND": "Microsoft"
+  },
+  {
+    "ID": "14",
+    "QTYONHAND": 112,
+    "QTYONBACKORDER": 76,
+    "COSTPRICE": 74.99,
+    "MSRP": 69.99,
+    "ITEM": "XBox Wireless Controller",
+    "GRAPHIC": "XBoxController",
+    "DESCRIPTION": "Controller for the XBox consoles",
+    "BRAND": "Microsoft"
+  },
+  {
+    "ID": "15",
+    "QTYONHAND": 87,
+    "QTYONBACKORDER": 45,
+    "COSTPRICE": 79.99,
+    "MSRP": 79.99,
+    "ITEM": "XBox Stereo Headset",
+    "GRAPHIC": "XBoxHeadset",
+    "DESCRIPTION": "Wireless headset for better gaming experience",
+    "BRAND": "Microsoft"
+  }
+]
