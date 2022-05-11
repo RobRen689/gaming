@@ -118,7 +118,7 @@
     "ITEM": "XBox Series X",
     "GRAPHIC": "xboxsx.png",
     "DESCRIPTION": "The newest XBox System",
-    "BRAND": "Microsoft"
+    "BRAND": "MICROSOFT"
   },
   {
     "ID": "xbss",
@@ -129,7 +129,7 @@
     "ITEM": "XBox Series S",
     "GRAPHIC": "xboxss.png",
     "DESCRIPTION": "The newest XBox System just like XBox Series X, but much smaller",
-    "BRAND": "Microsoft"
+    "BRAND": "MICROSOFT"
   },
   {
     "ID": "xboxox",
@@ -140,7 +140,7 @@
     "ITEM": "XBox One X",
     "GRAPHIC": "xboxonex.png",
     "DESCRIPTION": "Successer of XBox 360",
-    "BRAND": "Microsoft"
+    "BRAND": "MICROSOFT"
   },
   {
     "ID": "xboxsc",
@@ -151,7 +151,7 @@
     "ITEM": "XBox One X Project Scorpio",
     "GRAPHIC": "xboxscor.png",
     "DESCRIPTION": "Custom Xbox One X with Project Scorpio designs",
-    "BRAND": "Microsoft"
+    "BRAND": "MICROSOFT"
   },
   {
     "ID": "xb360",
@@ -162,6 +162,6 @@
     "ITEM": "XBox 360",
     "GRAPHIC": "xbox360.png",
     "DESCRIPTION": "The second generation of XBox family",
-    "BRAND": "Microsoft"
+    "BRAND": "MICROSOFT"
   }
 ]
