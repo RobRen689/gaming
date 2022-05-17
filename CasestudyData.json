@@ -7,7 +7,7 @@
     "MSRP": "299.99",
     "ITEM": "Nintendo Switch - Neon Blue + Neon Red",
     "GRAPHIC": "switch.png",
-    "DESCRIPTION": "The base model of switch",
+    "DESCRIPTION": "Nintendo Switch is designed to fit your life, transforming from home console to portable system in a snap. Dock your Nintendo Switch to enjoy HD gaming on your TV. Flip the stand to share the screen, then share the fun with a multiplayer game. Pick it up and play with the Joy‑Con controllers attached.",
     "BRAND": "NINTENDO"
   },
   {
@@ -18,7 +18,7 @@
     "MSRP": "199.99",
     "ITEM": "Nintendo Switch Lite - Turquoise",
     "GRAPHIC": "switchlite.png",
-    "DESCRIPTION": "The lite model of switch",
+    "DESCRIPTION": "The Nintendo Switch Lite is designed specifically for handheld play—so you can jump into your favorite games wherever you happen to be. Dedicated to handheld player.",
     "BRAND": "NINTENDO"
   },
   {
@@ -29,7 +29,7 @@
     "MSRP": "399.99",
     "ITEM": "Nintendo Switch - OLED Model",
     "GRAPHIC": "switcholed.png",
-    "DESCRIPTION": "Switch with 7 inch OLED screen",
+    "DESCRIPTION": "The new system features a vibrant 7-inch OLED screen, a wide adjustable stand, a dock with a wired LAN port, 64 GB of internal storage, and enhanced audio.",
     "BRAND": "NINTENDO"
   },
   {
@@ -40,7 +40,7 @@
     "MSRP": "199.99",
     "ITEM": "New Nintendo 3DS XL",
     "GRAPHIC": "new3dsxl.png",
-    "DESCRIPTION": "A new generational model for the Nintendo 3DS",
+    "DESCRIPTION": "The New Nintendo 3DS XL system combines next-generation portable gaming withsuper-stable 3D technology and added control features. Take 3D photos, connectwith friends, and enhance your gaming experiences with added amiibo support.",
     "BRAND": "NINTENDO"
   },
   {
@@ -51,7 +51,7 @@
     "MSRP": "149.99",
     "ITEM": "New Nintendo 2DS XL",
     "GRAPHIC": "new2dsxl.png",
-    "DESCRIPTION": "A lighter and cheaper model of New Nintendo 3DS",
+    "DESCRIPTION": "The New Nintendo 2DS XL is basically a 3DS XL, minus the 3D, with a slightly improved design. It gives you access to a huge library of great games, including past DS, NES and SNES classics.",
     "BRAND": "NINTENDO"
   },
   {
@@ -62,7 +62,7 @@
     "MSRP": "599.99",
     "ITEM": "Playstation 5 Console",
     "GRAPHIC": "p5.png",
-    "DESCRIPTION": "The newest model of playstation gaming console",
+    "DESCRIPTION": "Experience lightning-fast loading with an ultra-high speed SSD, deeper immersion with support for haptic feedback, adaptive triggers and 3D Audio, and an all-new generation of incredible PlayStation games.",
     "BRAND": "SONY"
   },
   {
@@ -73,7 +73,7 @@
     "MSRP": "499.99",
     "ITEM": "Playstation 4 Pro",
     "GRAPHIC": "p4pro.png",
-    "DESCRIPTION": "The most advanced model of playstation 4",
+    "DESCRIPTION": "PS4 Pro packs in twice the GPU power of the standard PS4 – letting you experience incredible image clarity, smoother gameplay and shorter load times in select PS4 Pro enhanced games.",
     "BRAND": "SONY"
   },
   {
@@ -84,7 +84,7 @@
     "MSRP": "399.99",
     "ITEM": "Playstation 4 Slim",
     "GRAPHIC": "p4slim.png",
-    "DESCRIPTION": "The upgraded model of playstation 4",
+    "DESCRIPTION": "The compact size of the console makes the PS4 Slim a better fit in most rooms, and as an added bonus it runs quieter and uses up less power than the original PlayStation 4.",
     "BRAND": "SONY"
   },
   {
@@ -95,7 +95,7 @@
     "MSRP": "499.99",
     "ITEM": "Playstation 4",
     "GRAPHIC": "p4.png",
-    "DESCRIPTION": "The base model of playstation 4",
+    "DESCRIPTION": "A new generation of Playstation, upgraded from PS3. The PS4 console, delivering awesome gaming power, incredible entertainment and vibrant HDR technology.",
     "BRAND": "SONY"
   },
   {
@@ -106,7 +106,7 @@
     "MSRP": "249.99",
     "ITEM": "Playstation Vita",
     "GRAPHIC": "pvita.png",
-    "DESCRIPTION": "The upgraded version of PSP",
+    "DESCRIPTION": "The console is the successor to the PlayStation Portable. The Vita features a quad-core ARM Cortex-A9 MPCore CPU and a quad-core SGX543MP GPU.",
     "BRAND": "SONY"
   },
   {
@@ -117,7 +117,7 @@
     "MSRP": "599.99",
     "ITEM": "XBox Series X",
     "GRAPHIC": "xboxsx.png",
-    "DESCRIPTION": "The newest XBox System",
+    "DESCRIPTION": "The Xbox Series X delivers sensationally smooth frame rates of up to 120FPS with the visual pop of HDR. Immerse yourself with sharper characters, brighter worlds, and impossible details with true-to-life 4K.",
     "BRAND": "MICROSOFT"
   },
   {
@@ -128,7 +128,7 @@
     "MSRP": "399.99",
     "ITEM": "XBox Series S",
     "GRAPHIC": "xboxss.png",
-    "DESCRIPTION": "The newest XBox System just like XBox Series X, but much smaller",
+    "DESCRIPTION": "The Xbox Velocity Architecture, powered by a custom SSD, works together with the innovative system on a chip (SOC) technology to provide gameplay up to 120FPS on our smallest console ever.",
     "BRAND": "MICROSOFT"
   },
   {
@@ -139,7 +139,7 @@
     "MSRP": "499.99",
     "ITEM": "XBox One X",
     "GRAPHIC": "xboxonex.png",
-    "DESCRIPTION": "Successer of XBox 360",
+    "DESCRIPTION": "Experience immersive 4K gaming with Xbox One X. Bring your video games to life, plus enjoy 4K Blu-ray and 4K video streaming on the Xbox One X console.",
     "BRAND": "MICROSOFT"
   },
   {
@@ -150,7 +150,7 @@
     "MSRP": "499.99",
     "ITEM": "XBox One X Project Scorpio",
     "GRAPHIC": "xboxscor.png",
-    "DESCRIPTION": "Custom Xbox One X with Project Scorpio designs",
+    "DESCRIPTION": "Experience 40% more power than any other console. 6 teraflops of graphical processing power and a 4K Blu-ray player provide more immersive gaming and entertainment.",
     "BRAND": "MICROSOFT"
   },
   {
@@ -161,7 +161,7 @@
     "MSRP": "299.99",
     "ITEM": "XBox 360",
     "GRAPHIC": "xbox360.png",
-    "DESCRIPTION": "The second generation of XBox family",
+    "DESCRIPTION": "The Xbox 360 is a home video game console developed by Microsoft. As the successor to the original Xbox, it is the second console in the Xbox series.",
     "BRAND": "MICROSOFT"
   }
 ]
